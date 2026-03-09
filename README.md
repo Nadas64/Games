@@ -1,3 +1,3 @@
-![Example](1.gif)
-![Example](2.gif)
-![Example](3.gif)
+![Example](Assets/1.gif)
+![Example](Assets/2.gif)
+![Example](Assets/3.gif)
